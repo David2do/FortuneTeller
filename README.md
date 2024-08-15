@@ -1,11 +1,11 @@
-#Overview
+# Overview
 Welcome to my very first programming project! This simple app was created as a demonstration of the coding skills I began learning when I started my programming journey. While it may be basic, it represents a significant milestone in my development as a programmer.
 
-##Features
+## Features
 Basic Functionality: This app was built to demonstrate my understanding of the fundamental programming concepts I was learning at the time.
 Simple User Interface: The UI is minimal and designed to help users interact with the app's core features without any distractions.
 
-#Technologies Used
+# Technologies Used
 Programming Language: Java
 Sketchware coding app was actually made use of.
 
