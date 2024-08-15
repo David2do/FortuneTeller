@@ -5,8 +5,9 @@ Welcome to my very first programming project! This simple app was created as a d
 Basic Functionality: This app was built to demonstrate my understanding of the fundamental programming concepts I was learning at the time.
 Simple User Interface: The UI is minimal and designed to help users interact with the app's core features without any distractions.
 
-# Technologies Used
+## Technologies Used
 Programming Language: Java
+
 Sketchware coding app was actually made use of.
 
 ## How It Works
@@ -15,8 +16,8 @@ As probably guessed, there is so little going on in the background. The program 
 ## How It's used
 One simply asks a question of 'yes','no', and 'maybe' in mind, and click on the button. The random output is gotten with each click. 'Crazy', I'd say (as do you)!
 
-This was just a learning too, hence I have no intention of advancing it. Meanwhile, feel free to engage with the app and contribute.
+This was just a learning tool, hence I have no intention of advancing it. Meanwhile, feel free to engage with the app and contribute.
 
 Importantly, ensure to check out the exciting projects I am and will be working on, especially in the area of Computer Vision and Image Processing.
 
-#### Enjoy FortuneTeller!
+**Enjoy FortuneTeller!**
