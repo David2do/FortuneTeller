@@ -20,4 +20,9 @@ This was just a learning tool, hence I have no intention of advancing it. Meanwh
 
 Importantly, ensure to check out the exciting projects I am and will be working on, especially in the area of Computer Vision and Image Processing.
 
+## Credits
+Thanks to the Community Based Development Partners (CBDP) for the coding program that opened this world to me. I will forever be indebted to them. Do well to check them out at [CBDPartners.org](https://www.cbdpartners.org).
+Make donation to the amazing work those guys are doing. Thanks!
+
+
 **Enjoy FortuneTeller!**
